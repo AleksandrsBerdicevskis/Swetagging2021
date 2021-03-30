@@ -1,2 +1,2 @@
 # Swetagging2021
- Supplementary materials for the paper "Part-of-speech tagging of Swedish texts in the neural era"
+ This repository contains the supplementary materials for the paper "Part-of-speech tagging of Swedish texts in the neural era".
